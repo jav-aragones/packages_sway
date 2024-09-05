@@ -1,7 +1,9 @@
 # Packages_sway
 
 
-In this repo I save the packages created from the Ponce repo of sway windows manager.
+In this repo I save the packages updates from the Ponce repo of sway windows manager.
+
+https://github.com/Ponce/slackbuilds
 
 It includes packages, utilities, and dependencies that you use to compile them.
 
@@ -12,7 +14,9 @@ The licenses correspond to each user who created the respective slackbuild.
 --------
 
 
-En este repo guardo los paquetes creados del repo Ponce de sway windows manager.
+En este repo guardo los paquetes actualizados del repo Ponce de sway windows manager.
+
+https://github.com/Ponce/slackbuilds
 
 En él se incluyen paquetes, utilidades y dependencias que use para compiarlos.
 
