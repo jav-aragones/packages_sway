@@ -1,8 +1,0 @@
-Cambios realizados al repositorio.
-
-16/09/2024 - Inicio del Changelog.
-
-18/09/2024 - Actualizado grim 
-20/09/2024 - Añadido FontAwesome
-
-
